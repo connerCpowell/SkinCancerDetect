@@ -44,12 +44,18 @@ len(images)
 images = [path.replace('\\', '/') for path in images]
 df = pd.DataFrame({'filepath': images})
 df['label'] = df['filepath'].str.split('/', expand=True)[1]
-df.head(50)
+df.head()
+
+# %%
+df['label'] = df['label'].str.replace('ISIC-', '')
+#df.head(50)
+
+random_sample = df.sample(n=25)
+print(random_sample)
 
 # %%
 
 df['label_bin'] = np.where(df['label'].values == 'malignant', 1, 0)
-df.head()
 
 
 # %%
@@ -80,6 +86,113 @@ for cat in df['label'].unique():
         ax[i].imshow(img)
 plt.tight_layout()
 plt.show()
+
+
+# %%
+
+features = df['filepath']
+target = df['label_bin']
+ 
+X_train, X_val,\
+    Y_train, Y_val = train_test_split(features, target,
+                                      test_size=0.15,
+                                      random_state=10)
+ 
+X_train.shape, X_val.shape
+
+
+# %%
+
+def decode_image(filepath, label=None):
+ 
+    img = tf.io.read_file(filepath)
+    img = tf.image.decode_jpeg(img)
+    img = tf.image.resize(img, [224, 224])
+    img = tf.cast(img, tf.float32) / 255.0
+
+    # print('label:', label)
+    # if label == 'benign':
+    #     Label = 0
+    # else:
+    #     Label = 1
+ 
+    #return img, Label
+    return img
+
+
+
+# %%
+
+train_ds = (
+    tf.data.Dataset
+    .from_tensor_slices((X_train, Y_train))
+    .map(decode_image, num_parallel_calls=AUTO)
+    .batch(32)
+    .prefetch(AUTO)
+)
+ 
+val_ds = (
+    tf.data.Dataset
+    .from_tensor_slices((X_val, Y_val))
+    .map(decode_image, num_parallel_calls=AUTO)
+    .batch(32)
+    .prefetch(AUTO)
+)
+
+
+# %%
+
+
+from tensorflow.keras.applications.efficientnet import EfficientNetB7
+ 
+pre_trained_model = EfficientNetB7(
+    input_shape=(224, 224, 3),
+    weights='imagenet',
+    include_top=False
+)
+ 
+for layer in pre_trained_model.layers:
+    layer.trainable = False
+
+
+# %%
+
+from tensorflow.keras import Model
+ 
+inputs = layers.Input(shape=(224, 224, 3))
+x = layers.Flatten()(inputs)
+ 
+x = layers.Dense(256, activation='relu')(x)
+x = layers.BatchNormalization()(x)
+x = layers.Dense(256, activation='relu')(x)
+x = layers.Dropout(0.3)(x)
+x = layers.BatchNormalization()(x)
+outputs = layers.Dense(1, activation='sigmoid')(x)
+ 
+model = Model(inputs, outputs)
+
+
+# %%
+
+model.compile(
+    loss=tf.keras.losses.BinaryCrossentropy(from_logits=True),
+    optimizer='adam',
+    metrics=['AUC']
+)
+
+
+# %%
+
+history = model.fit(train_ds,
+                    validation_data=val_ds,
+                    epochs=5,
+                    verbose=1)
+
+
+# %%
+
+hist_df = pd.DataFrame(history.history)
+hist_df.head()
 
 
 # %%
