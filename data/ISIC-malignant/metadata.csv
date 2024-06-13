@@ -1,0 +1,281 @@
+isic_id,attribution,copyright_license,age_approx,anatom_site_general,benign_malignant,concomitant_biopsy,diagnosis,diagnosis_confirm_type,family_hx_mm,fitzpatrick_skin_type,image_type,lesion_id,mel_class,mel_thick_mm,melanocytic,patient_id,personal_hx_mm,sex
+ISIC_0024207,Anonymous,CC-0,25,,malignant,True,melanoma,histopathology,,,clinical: overview,,invasive melanoma,0.30,True,,,female
+ISIC_0024208,Anonymous,CC-0,80,,malignant,True,basal cell carcinoma,histopathology,,,clinical: overview,,,,False,,,male
+ISIC_0024213,Anonymous,CC-0,60,,malignant,True,melanoma,histopathology,,,clinical: overview,,melanoma in situ,0.00,True,,,male
+ISIC_0024215,Anonymous,CC-0,60,,malignant,True,melanoma,histopathology,,,clinical: overview,,melanoma in situ,0.00,True,,,male
+ISIC_0024216,Anonymous,CC-0,75,,malignant,True,melanoma,histopathology,,,clinical: overview,,melanoma in situ,0.00,True,,,male
+ISIC_0024217,Anonymous,CC-0,65,,malignant,True,melanoma,histopathology,,,clinical: overview,,invasive melanoma,0.20,True,,,male
+ISIC_0024218,Anonymous,CC-0,65,,malignant,True,melanoma,histopathology,,,clinical: overview,,invasive melanoma,0.40,True,,,male
+ISIC_0024219,Anonymous,CC-0,85,,malignant,True,melanoma,histopathology,,,clinical: overview,,invasive melanoma,0.20,True,,,male
+ISIC_0024220,Anonymous,CC-0,80,,malignant,True,melanoma,histopathology,,,clinical: overview,,invasive melanoma,0.40,True,,,female
+ISIC_0024222,Anonymous,CC-0,70,,malignant,True,melanoma,histopathology,,,clinical: overview,,melanoma in situ,0.00,True,,,female
+ISIC_0024227,Anonymous,CC-0,85,,malignant,True,melanoma,histopathology,,,clinical: overview,,melanoma in situ,0.00,True,,,male
+ISIC_0024235,Anonymous,CC-0,70,,malignant,True,basal cell carcinoma,histopathology,,,clinical: overview,,,,False,,,female
+ISIC_0024236,Anonymous,CC-0,65,,malignant,True,melanoma,histopathology,,,clinical: overview,,invasive melanoma,0.30,True,,,male
+ISIC_0024238,Anonymous,CC-0,85,,malignant,True,melanoma,histopathology,,,clinical: overview,,invasive melanoma,0.20,True,,,female
+ISIC_0024240,Anonymous,CC-0,80,,malignant,True,basal cell carcinoma,histopathology,,,clinical: overview,,,,False,,,female
+ISIC_0024246,Anonymous,CC-0,50,,malignant,True,basal cell carcinoma,histopathology,,,clinical: overview,,,,False,,,female
+ISIC_0024247,Anonymous,CC-0,50,,malignant,True,melanoma,histopathology,,,clinical: overview,,invasive melanoma,3.10,True,,,female
+ISIC_0024251,Anonymous,CC-0,85,,malignant,True,basal cell carcinoma,histopathology,,,clinical: overview,,,,False,,,female
+ISIC_0024252,Anonymous,CC-0,30,,malignant,True,melanoma,histopathology,,,clinical: overview,,invasive melanoma,2.50,True,,,male
+ISIC_0024253,Anonymous,CC-0,40,,malignant,True,melanoma,histopathology,,,clinical: overview,,invasive melanoma,0.30,True,,,female
+ISIC_0024255,Anonymous,CC-0,65,,malignant,True,melanoma,histopathology,,,clinical: overview,,melanoma in situ,0.00,True,,,male
+ISIC_0024257,Anonymous,CC-0,65,,malignant,True,basal cell carcinoma,histopathology,,,clinical: overview,,,,False,,,male
+ISIC_0024260,Anonymous,CC-0,55,,malignant,True,basal cell carcinoma,histopathology,,,clinical: overview,,,,False,,,male
+ISIC_0024261,Anonymous,CC-0,85,,malignant,True,squamous cell carcinoma,histopathology,,,clinical: overview,,,,False,,,male
+ISIC_0024263,Anonymous,CC-0,45,,malignant,True,melanoma,histopathology,,,clinical: overview,,melanoma in situ,0.00,True,,,male
+ISIC_0024264,Anonymous,CC-0,85,,malignant,True,melanoma,histopathology,,,clinical: overview,,invasive melanoma,0.10,True,,,male
+ISIC_0024266,Anonymous,CC-0,70,,malignant,True,melanoma,histopathology,,,clinical: overview,,melanoma in situ,0.00,True,,,male
+ISIC_0024269,Anonymous,CC-0,75,,malignant,True,basal cell carcinoma,histopathology,,,clinical: overview,,,,False,,,female
+ISIC_0024270,Anonymous,CC-0,50,,malignant,True,melanoma,histopathology,,,clinical: overview,,invasive melanoma,0.30,True,,,female
+ISIC_0024274,Anonymous,CC-0,55,,malignant,True,basal cell carcinoma,histopathology,,,clinical: overview,,,,False,,,female
+ISIC_0024281,Anonymous,CC-0,85,,malignant,True,basal cell carcinoma,histopathology,,,clinical: overview,,,,False,,,male
+ISIC_0024282,Anonymous,CC-0,85,,malignant,True,squamous cell carcinoma,histopathology,,,clinical: overview,,,,False,,,male
+ISIC_0024283,Anonymous,CC-0,85,,malignant,True,basal cell carcinoma,histopathology,,,clinical: overview,,,,False,,,male
+ISIC_0024287,Anonymous,CC-0,85,,malignant,True,melanoma,histopathology,,,clinical: overview,,invasive melanoma,0.30,True,,,male
+ISIC_0024288,Anonymous,CC-0,60,,malignant,True,squamous cell carcinoma,histopathology,,,clinical: overview,,,,False,,,male
+ISIC_0024289,Anonymous,CC-0,55,,malignant,True,basal cell carcinoma,histopathology,,,clinical: overview,,,,False,,,male
+ISIC_0024291,Anonymous,CC-0,75,,malignant,True,melanoma,histopathology,,,clinical: overview,,melanoma in situ,0.00,True,,,male
+ISIC_0024294,Anonymous,CC-0,30,,malignant,True,squamous cell carcinoma,histopathology,,,clinical: overview,,,,False,,,male
+ISIC_0024300,Anonymous,CC-0,55,,malignant,True,melanoma,histopathology,,,clinical: overview,,invasive melanoma,0.40,True,,,female
+ISIC_0024301,Anonymous,CC-0,55,,malignant,True,basal cell carcinoma,histopathology,,,clinical: overview,,,,False,,,female
+ISIC_0024302,Anonymous,CC-0,25,,malignant,True,melanoma,histopathology,,,clinical: overview,,melanoma in situ,0.00,True,,,female
+ISIC_0024303,Anonymous,CC-0,60,,malignant,True,squamous cell carcinoma,histopathology,,,clinical: overview,,,,False,,,male
+ISIC_0024305,Anonymous,CC-0,85,,malignant,True,squamous cell carcinoma,histopathology,,,clinical: overview,,,,False,,,male
+ISIC_0036065,Anonymous,CC-0,80,,malignant,True,melanoma,histopathology,,,clinical: overview,,melanoma in situ,0.00,True,,,male
+ISIC_0094098,Hospital Italiano de Buenos Aires,CC-BY,65,posterior torso,malignant,True,melanoma,histopathology,False,II,clinical: overview,IL_6961144,,,,IP_1218261,True,male
+ISIC_0116640,Hospital Italiano de Buenos Aires,CC-BY,80,lower extremity,malignant,True,melanoma,histopathology,True,I,clinical: overview,IL_5502639,,,,IP_7526334,True,female
+ISIC_0119854,Hospital Italiano de Buenos Aires,CC-BY,80,anterior torso,malignant,True,basal cell carcinoma,histopathology,,I,clinical: overview,IL_9587318,,,,IP_2079372,,female
+ISIC_0133379,Hospital Italiano de Buenos Aires,CC-BY,65,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_3383993,,,,IP_3342129,,female
+ISIC_0133773,Hospital Italiano de Buenos Aires,CC-BY,80,upper extremity,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_1022413,,,,IP_6640998,,female
+ISIC_0211418,Hospital Italiano de Buenos Aires,CC-BY,65,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_3341905,,,,IP_5842685,,female
+ISIC_0218248,Memorial Sloan Kettering Cancer Center,CC-0,75,upper extremity,malignant,True,melanoma,histopathology,,,clinical: overview,,invasive melanoma,1.70,,,,female
+ISIC_0330896,Hospital Italiano de Buenos Aires,CC-BY,85,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_7198013,,,,IP_2844264,,female
+ISIC_0373249,Hospital Italiano de Buenos Aires,CC-BY,60,lower extremity,malignant,True,melanoma,histopathology,,II,clinical: overview,IL_1701283,,,,IP_9885775,True,female
+ISIC_0514929,Hospital Italiano de Buenos Aires,CC-BY,65,posterior torso,malignant,True,melanoma,histopathology,,I,clinical: overview,IL_5856523,,,,IP_3279811,,male
+ISIC_0542742,Hospital Italiano de Buenos Aires,CC-BY,65,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_8012686,,,,IP_9116795,,female
+ISIC_0562305,Hospital Italiano de Buenos Aires,CC-BY,85,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_5370176,,,,IP_3371330,,female
+ISIC_0580759,Hospital Italiano de Buenos Aires,CC-BY,65,head/neck,malignant,True,squamous cell carcinoma,histopathology,,II,clinical: overview,IL_8239498,,,,IP_7256360,,male
+ISIC_0633437,Hospital Italiano de Buenos Aires,CC-BY,75,posterior torso,malignant,True,melanoma,histopathology,,II,clinical: overview,IL_7402225,,,,IP_2137123,,male
+ISIC_0647125,Hospital Italiano de Buenos Aires,CC-BY,70,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_9840135,,,,IP_7923120,,male
+ISIC_0708451,Hospital Italiano de Buenos Aires,CC-BY,60,posterior torso,malignant,True,melanoma,histopathology,False,II,clinical: overview,IL_8692596,,,,IP_9341045,True,male
+ISIC_0761934,Hospital Italiano de Buenos Aires,CC-BY,80,lower extremity,malignant,True,melanoma,histopathology,,II,clinical: overview,IL_3905702,,,,IP_6838851,,female
+ISIC_0765095,Hospital Italiano de Buenos Aires,CC-BY,85,anterior torso,malignant,True,squamous cell carcinoma,histopathology,,II,clinical: overview,IL_9826099,,,,IP_3451310,,male
+ISIC_0830433,Hospital Italiano de Buenos Aires,CC-BY,85,,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_9777032,,,,IP_6444963,,male
+ISIC_1000675,Hospital Italiano de Buenos Aires,CC-BY,80,upper extremity,malignant,True,melanoma,histopathology,,II,clinical: overview,IL_3632801,,,,IP_6640998,,female
+ISIC_1065512,Hospital Italiano de Buenos Aires,CC-BY,75,anterior torso,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_9806320,,,,IP_5349935,,female
+ISIC_1112864,Hospital Italiano de Buenos Aires,CC-BY,70,anterior torso,malignant,True,melanoma,histopathology,,II,clinical: overview,IL_4606486,,,,IP_9586825,,male
+ISIC_1135829,Hospital Italiano de Buenos Aires,CC-BY,70,lower extremity,malignant,True,melanoma,histopathology,,II,clinical: overview,IL_4512262,,,,IP_4216830,,female
+ISIC_1152189,Hospital Italiano de Buenos Aires,CC-BY,70,anterior torso,malignant,True,basal cell carcinoma,histopathology,False,II,clinical: overview,IL_1792549,,,,IP_1483579,True,female
+ISIC_1309231,Hospital Italiano de Buenos Aires,CC-BY,85,head/neck,malignant,True,squamous cell carcinoma,histopathology,,II,clinical: overview,IL_2659423,,,,IP_1414430,,female
+ISIC_1317893,Hospital Italiano de Buenos Aires,CC-BY,65,lower extremity,malignant,True,melanoma,histopathology,False,I,clinical: overview,IL_7601203,,,,IP_5230560,True,female
+ISIC_1321984,Hospital Italiano de Buenos Aires,CC-BY,60,anterior torso,malignant,True,melanoma,histopathology,False,I,clinical: overview,IL_5354427,,,,IP_0212365,True,male
+ISIC_1341581,Hospital Italiano de Buenos Aires,CC-BY,80,posterior torso,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_0526105,,,,IP_5048300,,male
+ISIC_1346627,Hospital Italiano de Buenos Aires,CC-BY,50,lower extremity,malignant,True,melanoma,histopathology,,II,clinical: overview,IL_3798662,,,,IP_0682714,,female
+ISIC_1411587,Hospital Italiano de Buenos Aires,CC-BY,70,head/neck,malignant,True,basal cell carcinoma,histopathology,,,clinical: overview,IL_0822230,,,,IP_0383433,,male
+ISIC_1482223,Hospital Italiano de Buenos Aires,CC-BY,60,posterior torso,malignant,True,melanoma,histopathology,,II,clinical: overview,IL_0247953,,,,IP_9079253,,male
+ISIC_1536832,Hospital Italiano de Buenos Aires,CC-BY,75,anterior torso,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_6538837,,,,IP_0412162,,male
+ISIC_1559934,Hospital Italiano de Buenos Aires,CC-BY,85,head/neck,malignant,True,squamous cell carcinoma,histopathology,,II,clinical: overview,IL_5475527,,,,IP_5251892,,female
+ISIC_1634408,Hospital Italiano de Buenos Aires,CC-BY,80,upper extremity,malignant,True,melanoma,histopathology,,II,clinical: overview,IL_1486711,,,,IP_6555777,,female
+ISIC_1640110,Hospital Italiano de Buenos Aires,CC-BY,80,head/neck,malignant,True,squamous cell carcinoma,histopathology,,II,clinical: overview,IL_6812801,,,,IP_3150219,True,male
+ISIC_1641940,Hospital Italiano de Buenos Aires,CC-BY,70,head/neck,malignant,True,basal cell carcinoma,histopathology,False,III,clinical: overview,IL_9366956,,,,IP_3682931,False,male
+ISIC_1831970,Hospital Italiano de Buenos Aires,CC-BY,50,anterior torso,malignant,True,basal cell carcinoma,histopathology,False,II,clinical: overview,IL_1878538,,,,IP_4253242,False,female
+ISIC_1939384,Hospital Italiano de Buenos Aires,CC-BY,65,lower extremity,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_1669261,,,,IP_2080217,,male
+ISIC_1949623,Hospital Italiano de Buenos Aires,CC-BY,60,lower extremity,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_9784934,,,,IP_9621492,,female
+ISIC_1976390,Hospital Italiano de Buenos Aires,CC-BY,70,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_3417598,,,,IP_7428337,,female
+ISIC_1990662,Hospital Italiano de Buenos Aires,CC-BY,85,head/neck,malignant,True,squamous cell carcinoma,histopathology,,II,clinical: overview,IL_2257174,,,,IP_1780405,,male
+ISIC_2035987,Hospital Italiano de Buenos Aires,CC-BY,55,posterior torso,malignant,True,squamous cell carcinoma,histopathology,True,II,clinical: overview,IL_4336943,,,,IP_3739383,True,female
+ISIC_2102830,Memorial Sloan Kettering Cancer Center,CC-0,60,upper extremity,malignant,True,melanoma,histopathology,,,clinical: overview,,invasive melanoma,0.65,,,,female
+ISIC_2107859,Hospital Italiano de Buenos Aires,CC-BY,65,head/neck,malignant,True,melanoma,histopathology,False,II,clinical: overview,IL_3211111,,,,IP_1218261,True,male
+ISIC_2114677,Hospital Italiano de Buenos Aires,CC-BY,80,posterior torso,malignant,True,melanoma,histopathology,,II,clinical: overview,IL_7131880,,,,IP_7808184,True,male
+ISIC_2136197,Hospital Italiano de Buenos Aires,CC-BY,80,head/neck,malignant,True,squamous cell carcinoma,histopathology,False,II,clinical: overview,IL_6848602,,,,IP_0221369,False,male
+ISIC_2167440,Memorial Sloan Kettering Cancer Center,CC-0,65,upper extremity,malignant,True,melanoma,histopathology,,,clinical: overview,,invasive melanoma,,,,,male
+ISIC_2286569,Hospital Italiano de Buenos Aires,CC-BY,85,head/neck,malignant,True,basal cell carcinoma,histopathology,,III,clinical: overview,IL_8628562,,,,IP_1319015,,male
+ISIC_2354429,Hospital Italiano de Buenos Aires,CC-BY,70,posterior torso,malignant,True,basal cell carcinoma,histopathology,False,II,clinical: overview,IL_2407401,,,,IP_0031063,True,female
+ISIC_2464528,Hospital Italiano de Buenos Aires,CC-BY,85,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_6066818,,,,IP_1226729,,female
+ISIC_2465944,Hospital Italiano de Buenos Aires,CC-BY,60,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_9505800,,,,IP_5650689,,female
+ISIC_2536109,Hospital Italiano de Buenos Aires,CC-BY,75,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_0652737,,,,IP_6093731,,male
+ISIC_2560600,Memorial Sloan Kettering Cancer Center,CC-0,80,head/neck,malignant,True,melanoma,histopathology,,,clinical: overview,,invasive melanoma,1.00,,,,female
+ISIC_2567615,Hospital Italiano de Buenos Aires,CC-BY,85,head/neck,malignant,True,melanoma,histopathology,,II,clinical: overview,IL_1761906,,,,IP_2139616,,female
+ISIC_2700242,Hospital Italiano de Buenos Aires,CC-BY,55,anterior torso,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_0873714,,,,IP_1059364,,female
+ISIC_2704825,Hospital Italiano de Buenos Aires,CC-BY,75,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_4901291,,,,IP_8947694,,female
+ISIC_2720030,Hospital Italiano de Buenos Aires,CC-BY,80,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_5490451,,,,IP_6555777,,female
+ISIC_2729912,Hospital Italiano de Buenos Aires,CC-BY,80,head/neck,malignant,True,squamous cell carcinoma,histopathology,False,I,clinical: overview,IL_7949381,,,,IP_7872950,False,male
+ISIC_2837037,Hospital Italiano de Buenos Aires,CC-BY,85,upper extremity,malignant,True,melanoma,histopathology,,I,clinical: overview,IL_8169413,,,,IP_8408163,,male
+ISIC_2845345,Hospital Italiano de Buenos Aires,CC-BY,80,posterior torso,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_0941887,,,,IP_5828031,True,male
+ISIC_3000292,Memorial Sloan Kettering Cancer Center,CC-0,55,lower extremity,malignant,True,melanoma,histopathology,,,clinical: overview,,invasive melanoma,0.40,,,,female
+ISIC_3069438,Hospital Italiano de Buenos Aires,CC-BY,75,lower extremity,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_2025836,,,,IP_5398777,,male
+ISIC_3078834,Hospital Italiano de Buenos Aires,CC-BY,75,,malignant,True,basal cell carcinoma,histopathology,,,clinical: overview,IL_4489985,,,,IP_0290734,,male
+ISIC_3098914,Hospital Italiano de Buenos Aires,CC-BY,85,upper extremity,malignant,True,basal cell carcinoma,histopathology,,III,clinical: overview,IL_1120407,,,,IP_1173614,True,female
+ISIC_3108030,Hospital Italiano de Buenos Aires,CC-BY,55,lower extremity,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_5507680,,,,IP_7298406,,male
+ISIC_3149813,Hospital Italiano de Buenos Aires,CC-BY,55,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_5244040,,,,IP_6819963,,female
+ISIC_3159253,Hospital Italiano de Buenos Aires,CC-BY,70,anterior torso,malignant,True,melanoma,histopathology,False,II,clinical: overview,IL_9645108,,,,IP_1483579,True,female
+ISIC_3222130,Hospital Italiano de Buenos Aires,CC-BY,,anterior torso,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_9896383,,,,IP_0095265,,female
+ISIC_3228579,Hospital Italiano de Buenos Aires,CC-BY,85,head/neck,malignant,True,basal cell carcinoma,histopathology,,III,clinical: overview,IL_6844641,,,,IP_1319015,,male
+ISIC_3231047,Hospital Italiano de Buenos Aires,CC-BY,80,palms/soles,malignant,True,melanoma,histopathology,,II,clinical: overview,IL_3241236,,,,IP_9326388,,male
+ISIC_3234368,Hospital Italiano de Buenos Aires,CC-BY,85,posterior torso,malignant,True,melanoma,histopathology,,II,clinical: overview,IL_5005356,,,,IP_9093111,True,male
+ISIC_3240114,Hospital Italiano de Buenos Aires,CC-BY,65,head/neck,malignant,True,squamous cell carcinoma,histopathology,,II,clinical: overview,IL_5384200,,,,IP_2681150,,female
+ISIC_3247622,Hospital Italiano de Buenos Aires,CC-BY,85,head/neck,malignant,True,squamous cell carcinoma,histopathology,,II,clinical: overview,IL_2686098,,,,IP_8867554,,female
+ISIC_3289563,Hospital Italiano de Buenos Aires,CC-BY,85,head/neck,malignant,True,squamous cell carcinoma,histopathology,,II,clinical: overview,IL_3865867,,,,IP_1117498,True,male
+ISIC_3299133,Hospital Italiano de Buenos Aires,CC-BY,70,lateral torso,malignant,True,melanoma,histopathology,,II,clinical: overview,IL_0834101,,,,IP_5138682,,male
+ISIC_3311204,Hospital Italiano de Buenos Aires,CC-BY,60,lower extremity,malignant,True,melanoma,histopathology,,II,clinical: overview,IL_6936924,,,,IP_7362744,,male
+ISIC_3342666,Hospital Italiano de Buenos Aires,CC-BY,65,anterior torso,malignant,True,squamous cell carcinoma,histopathology,,II,clinical: overview,IL_8168888,,,,IP_6579706,,male
+ISIC_3359048,Hospital Italiano de Buenos Aires,CC-BY,75,posterior torso,malignant,True,melanoma,histopathology,False,II,clinical: overview,IL_7639685,,,,IP_8208342,True,female
+ISIC_3424187,Hospital Italiano de Buenos Aires,CC-BY,55,anterior torso,malignant,True,squamous cell carcinoma,histopathology,False,II,clinical: overview,IL_0337405,,,,IP_1773325,False,female
+ISIC_3426358,Hospital Italiano de Buenos Aires,CC-BY,85,head/neck,malignant,True,squamous cell carcinoma,histopathology,,II,clinical: overview,IL_3083015,,,,IP_2967644,,female
+ISIC_3435457,Hospital Italiano de Buenos Aires,CC-BY,50,posterior torso,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_1605286,,,,IP_6714333,,female
+ISIC_3439101,Hospital Italiano de Buenos Aires,CC-BY,60,lower extremity,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_8001964,,,,IP_8857970,,female
+ISIC_3471170,Hospital Italiano de Buenos Aires,CC-BY,60,head/neck,malignant,True,squamous cell carcinoma,histopathology,,III,clinical: overview,IL_3066011,,,,IP_4641203,,male
+ISIC_3498622,Hospital Italiano de Buenos Aires,CC-BY,70,lower extremity,malignant,True,squamous cell carcinoma,histopathology,,II,clinical: overview,IL_6640027,,,,IP_8388966,,male
+ISIC_3518714,Hospital Italiano de Buenos Aires,CC-BY,50,lower extremity,malignant,True,melanoma,histopathology,False,II,clinical: overview,IL_3810076,,,,IP_6406539,True,male
+ISIC_3560753,Hospital Italiano de Buenos Aires,CC-BY,80,posterior torso,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_1454921,,,,IP_2118132,,male
+ISIC_3585954,Hospital Italiano de Buenos Aires,CC-BY,85,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_5507125,,,,IP_2427319,,female
+ISIC_3610996,Hospital Italiano de Buenos Aires,CC-BY,55,palms/soles,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_9726141,,,,IP_1914877,,
+ISIC_3630590,Hospital Italiano de Buenos Aires,CC-BY,75,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_2089622,,,,IP_0412162,,male
+ISIC_3754853,Hospital Italiano de Buenos Aires,CC-BY,55,posterior torso,malignant,True,melanoma,histopathology,,III,clinical: overview,IL_3699892,,,,IP_2004044,,male
+ISIC_3804099,Hospital Italiano de Buenos Aires,CC-BY,55,lower extremity,malignant,True,squamous cell carcinoma,histopathology,,II,clinical: overview,IL_0235947,,,,IP_1914877,,
+ISIC_3867890,Hospital Italiano de Buenos Aires,CC-BY,80,head/neck,malignant,True,squamous cell carcinoma,histopathology,,II,clinical: overview,IL_0370820,,,,IP_5828031,True,male
+ISIC_3968056,Hospital Italiano de Buenos Aires,CC-BY,85,head/neck,malignant,True,basal cell carcinoma,histopathology,,III,clinical: overview,IL_1778616,,,,IP_1319015,,male
+ISIC_4035478,Hospital Italiano de Buenos Aires,CC-BY,60,head/neck,malignant,True,squamous cell carcinoma,histopathology,False,II,clinical: overview,IL_3094244,,,,IP_3297302,False,female
+ISIC_4079825,Hospital Italiano de Buenos Aires,CC-BY,80,posterior torso,malignant,True,melanoma,histopathology,,II,clinical: overview,IL_2793518,,,,IP_1221322,,male
+ISIC_4082554,Hospital Italiano de Buenos Aires,CC-BY,80,anterior torso,malignant,True,melanoma,histopathology,,II,clinical: overview,IL_9975476,,,,IP_5892304,,male
+ISIC_4117958,Hospital Italiano de Buenos Aires,CC-BY,80,head/neck,malignant,True,basal cell carcinoma,histopathology,,,clinical: overview,IL_9092931,,,,IP_7513395,,female
+ISIC_4205538,Hospital Italiano de Buenos Aires,CC-BY,80,posterior torso,malignant,True,melanoma,histopathology,False,I,clinical: overview,IL_2912868,,,,IP_4291496,False,male
+ISIC_4214029,Hospital Italiano de Buenos Aires,CC-BY,75,upper extremity,malignant,True,melanoma,histopathology,,II,clinical: overview,IL_8571682,,,,IP_0545294,,male
+ISIC_4237289,Hospital Italiano de Buenos Aires,CC-BY,75,posterior torso,malignant,True,melanoma,histopathology,False,II,clinical: overview,IL_6821221,,,,IP_6251525,True,female
+ISIC_4256211,Hospital Italiano de Buenos Aires,CC-BY,80,lower extremity,malignant,True,melanoma,histopathology,,II,clinical: overview,IL_6884432,,,,IP_6838851,,female
+ISIC_4382761,Memorial Sloan Kettering Cancer Center,CC-0,60,head/neck,malignant,True,melanoma,histopathology,,,clinical: overview,,invasive melanoma,0.20,,,,male
+ISIC_4489445,Hospital Italiano de Buenos Aires,CC-BY,70,head/neck,malignant,True,squamous cell carcinoma,histopathology,,II,clinical: overview,IL_7399308,,,,IP_7923120,,male
+ISIC_4489603,Hospital Italiano de Buenos Aires,CC-BY,60,head/neck,malignant,True,basal cell carcinoma,histopathology,,III,clinical: overview,IL_2668525,,,,IP_7513820,,male
+ISIC_4550448,Hospital Italiano de Buenos Aires,CC-BY,65,anterior torso,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_3947218,,,,IP_2080217,,male
+ISIC_4563689,Hospital Italiano de Buenos Aires,CC-BY,85,head/neck,malignant,True,squamous cell carcinoma,histopathology,,II,clinical: overview,IL_7758603,,,,IP_4270560,,female
+ISIC_4661821,Hospital Italiano de Buenos Aires,CC-BY,70,anterior torso,malignant,True,melanoma,histopathology,,II,clinical: overview,IL_9000367,,,,IP_4626612,,male
+ISIC_4706882,Hospital Italiano de Buenos Aires,CC-BY,75,anterior torso,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_9069382,,,,IP_0147267,,female
+ISIC_4732712,Hospital Italiano de Buenos Aires,CC-BY,70,head/neck,malignant,True,squamous cell carcinoma,histopathology,,II,clinical: overview,IL_5443888,,,,IP_4336233,,male
+ISIC_4761058,Memorial Sloan Kettering Cancer Center,CC-0,70,lower extremity,malignant,True,melanoma,histopathology,,,clinical: overview,,invasive melanoma,0.80,,,,female
+ISIC_4762072,Hospital Italiano de Buenos Aires,CC-BY,85,lower extremity,malignant,True,melanoma,histopathology,,II,clinical: overview,IL_0060683,,,,IP_7442897,,female
+ISIC_4766156,Hospital Italiano de Buenos Aires,CC-BY,40,posterior torso,malignant,True,melanoma,histopathology,,II,clinical: overview,IL_5167755,,,,IP_8710793,,male
+ISIC_4875503,Hospital Italiano de Buenos Aires,CC-BY,80,lower extremity,malignant,True,squamous cell carcinoma,histopathology,False,II,clinical: overview,IL_5428065,,,,IP_3315006,False,female
+ISIC_4879289,Hospital Italiano de Buenos Aires,CC-BY,60,head/neck,malignant,True,squamous cell carcinoma,histopathology,,II,clinical: overview,IL_0176882,,,,IP_3302800,,female
+ISIC_4970724,Hospital Italiano de Buenos Aires,CC-BY,85,head/neck,malignant,True,squamous cell carcinoma,histopathology,,II,clinical: overview,IL_3177073,,,,IP_7884622,,male
+ISIC_5059671,Hospital Italiano de Buenos Aires,CC-BY,85,lower extremity,malignant,True,melanoma,histopathology,,II,clinical: overview,IL_4891081,,,,IP_0325006,,female
+ISIC_5081865,Hospital Italiano de Buenos Aires,CC-BY,50,lateral torso,malignant,True,melanoma,histopathology,False,II,clinical: overview,IL_0174675,,,,IP_3418123,True,male
+ISIC_5086718,Hospital Italiano de Buenos Aires,CC-BY,85,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_9686443,,,,IP_5924149,,female
+ISIC_5121137,Hospital Italiano de Buenos Aires,CC-BY,85,head/neck,malignant,True,basal cell carcinoma,histopathology,False,II,clinical: overview,IL_0973744,,,,IP_8208342,True,female
+ISIC_5141599,Hospital Italiano de Buenos Aires,CC-BY,80,upper extremity,malignant,True,squamous cell carcinoma,histopathology,,II,clinical: overview,IL_7625655,,,,IP_9155557,,female
+ISIC_5184876,Hospital Italiano de Buenos Aires,CC-BY,65,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_4374423,,,,IP_5842685,,female
+ISIC_5220778,Hospital Italiano de Buenos Aires,CC-BY,75,head/neck,malignant,True,basal cell carcinoma,histopathology,False,II,clinical: overview,IL_9229911,,,,IP_8208342,True,female
+ISIC_5233904,Hospital Italiano de Buenos Aires,CC-BY,75,posterior torso,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_6271464,,,,IP_0412162,,male
+ISIC_5249982,Hospital Italiano de Buenos Aires,CC-BY,45,anterior torso,malignant,True,basal cell carcinoma,histopathology,True,II,clinical: overview,IL_1045215,,,,IP_6754451,True,male
+ISIC_5280241,Hospital Italiano de Buenos Aires,CC-BY,55,upper extremity,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_3023782,,,,IP_1589808,,male
+ISIC_5361878,Hospital Italiano de Buenos Aires,CC-BY,85,head/neck,malignant,True,squamous cell carcinoma,histopathology,,II,clinical: overview,IL_5404208,,,,IP_2434850,,male
+ISIC_5401158,Hospital Italiano de Buenos Aires,CC-BY,70,head/neck,malignant,True,squamous cell carcinoma,histopathology,,II,clinical: overview,IL_4193678,,,,IP_4307149,,female
+ISIC_5408518,Hospital Italiano de Buenos Aires,CC-BY,65,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_5969628,,,,IP_6579706,,male
+ISIC_5449807,Hospital Italiano de Buenos Aires,CC-BY,75,lower extremity,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_6020575,,,,IP_4393692,,male
+ISIC_5475971,Hospital Italiano de Buenos Aires,CC-BY,85,head/neck,malignant,True,basal cell carcinoma,histopathology,,III,clinical: overview,IL_2452828,,,,IP_1319015,,male
+ISIC_5560888,Hospital Italiano de Buenos Aires,CC-BY,85,,malignant,True,basal cell carcinoma,histopathology,,,clinical: overview,IL_5720550,,,,IP_2081101,,male
+ISIC_5577519,Hospital Italiano de Buenos Aires,CC-BY,80,posterior torso,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_5626445,,,,IP_7808184,True,male
+ISIC_5644176,Hospital Italiano de Buenos Aires,CC-BY,80,lower extremity,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_5890741,,,,IP_0281050,,male
+ISIC_5645939,Hospital Italiano de Buenos Aires,CC-BY,80,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_0879434,,,,IP_2118132,,male
+ISIC_5784016,Hospital Italiano de Buenos Aires,CC-BY,70,upper extremity,malignant,True,squamous cell carcinoma,histopathology,,II,clinical: overview,IL_2144167,,,,IP_8369422,,female
+ISIC_5815174,Hospital Italiano de Buenos Aires,CC-BY,85,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_1038560,,,,IP_5543648,,female
+ISIC_5836857,Hospital Italiano de Buenos Aires,CC-BY,75,head/neck,malignant,True,melanoma,histopathology,False,II,clinical: overview,IL_8955295,,,,IP_2359644,True,male
+ISIC_5847539,Hospital Italiano de Buenos Aires,CC-BY,85,lower extremity,malignant,True,squamous cell carcinoma,histopathology,,II,clinical: overview,IL_0065869,,,,IP_6792187,,female
+ISIC_5848879,Hospital Italiano de Buenos Aires,CC-BY,75,anterior torso,malignant,True,squamous cell carcinoma,histopathology,,II,clinical: overview,IL_2584095,,,,IP_0093557,True,female
+ISIC_5911355,Hospital Italiano de Buenos Aires,CC-BY,75,posterior torso,malignant,True,basal cell carcinoma,histopathology,False,II,clinical: overview,IL_3412296,,,,IP_8624681,False,male
+ISIC_5935679,Memorial Sloan Kettering Cancer Center,CC-0,65,upper extremity,malignant,True,melanoma,histopathology,,,clinical: overview,,invasive melanoma,0.20,,,,male
+ISIC_5940534,Hospital Italiano de Buenos Aires,CC-BY,75,lower extremity,malignant,True,squamous cell carcinoma,histopathology,,II,clinical: overview,IL_0983679,,,,IP_1418688,,female
+ISIC_5973072,Hospital Italiano de Buenos Aires,CC-BY,70,,malignant,True,basal cell carcinoma,histopathology,False,II,clinical: overview,IL_9299492,,,,IP_0031063,True,female
+ISIC_6015979,Hospital Italiano de Buenos Aires,CC-BY,80,anterior torso,malignant,True,melanoma,histopathology,,II,clinical: overview,IL_6014689,,,,IP_3150219,True,male
+ISIC_6127908,Hospital Italiano de Buenos Aires,CC-BY,80,head/neck,malignant,True,basal cell carcinoma,histopathology,False,I,clinical: overview,IL_5870994,,,,IP_4473222,True,male
+ISIC_6178183,Hospital Italiano de Buenos Aires,CC-BY,85,head/neck,malignant,True,basal cell carcinoma,histopathology,,III,clinical: overview,IL_7229255,,,,IP_1319015,,male
+ISIC_6215457,Hospital Italiano de Buenos Aires,CC-BY,65,lower extremity,malignant,True,melanoma,histopathology,False,II,clinical: overview,IL_0400264,,,,IP_5430722,True,male
+ISIC_6241688,Hospital Italiano de Buenos Aires,CC-BY,70,anterior torso,malignant,True,melanoma,histopathology,False,III,clinical: overview,IL_8605960,,,,IP_3682931,False,male
+ISIC_6340616,Hospital Italiano de Buenos Aires,CC-BY,65,lower extremity,malignant,True,melanoma,histopathology,,II,clinical: overview,IL_9408242,,,,IP_8463557,,female
+ISIC_6342903,Hospital Italiano de Buenos Aires,CC-BY,60,upper extremity,malignant,True,melanoma,histopathology,False,I,clinical: overview,IL_4436851,,,,IP_0212365,True,male
+ISIC_6525238,Hospital Italiano de Buenos Aires,CC-BY,85,head/neck,malignant,True,basal cell carcinoma,histopathology,,,clinical: overview,IL_3266357,,,,IP_2081101,,male
+ISIC_6584700,Hospital Italiano de Buenos Aires,CC-BY,75,upper extremity,malignant,True,melanoma,histopathology,,II,clinical: overview,IL_0182231,,,,IP_2955877,,female
+ISIC_6589022,Hospital Italiano de Buenos Aires,CC-BY,70,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_4800880,,,,IP_3530264,,male
+ISIC_6616147,Hospital Italiano de Buenos Aires,CC-BY,60,,malignant,True,basal cell carcinoma,histopathology,,,clinical: overview,IL_6968885,,,,IP_2440667,,male
+ISIC_6652468,Hospital Italiano de Buenos Aires,CC-BY,70,anterior torso,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_1427673,,,,IP_7923120,,male
+ISIC_6689070,Hospital Italiano de Buenos Aires,CC-BY,65,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_0316981,,,,IP_3342129,,female
+ISIC_6736065,Hospital Italiano de Buenos Aires,CC-BY,70,posterior torso,malignant,True,squamous cell carcinoma,histopathology,,II,clinical: overview,IL_4890198,,,,IP_8382257,,female
+ISIC_6788393,Hospital Italiano de Buenos Aires,CC-BY,80,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_0520999,,,,IP_3150219,True,male
+ISIC_6889410,Hospital Italiano de Buenos Aires,CC-BY,45,head/neck,malignant,True,basal cell carcinoma,histopathology,False,I,clinical: overview,IL_2351875,,,,IP_4771889,False,male
+ISIC_6894371,Memorial Sloan Kettering Cancer Center,CC-0,60,anterior torso,malignant,True,melanoma,histopathology,,,clinical: overview,,invasive melanoma,0.50,,,,male
+ISIC_6899527,Memorial Sloan Kettering Cancer Center,CC-0,80,upper extremity,malignant,True,melanoma,histopathology,,,clinical: overview,,invasive melanoma,0.30,,,,male
+ISIC_6933767,Hospital Italiano de Buenos Aires,CC-BY,85,anterior torso,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_3011668,,,,IP_1248331,,female
+ISIC_6961311,Hospital Italiano de Buenos Aires,CC-BY,85,head/neck,malignant,True,squamous cell carcinoma,histopathology,,II,clinical: overview,IL_7224729,,,,IP_6872677,,female
+ISIC_7035648,Hospital Italiano de Buenos Aires,CC-BY,70,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_2585638,,,,IP_3530264,,male
+ISIC_7128085,Hospital Italiano de Buenos Aires,CC-BY,75,posterior torso,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_3070676,,,,IP_6783333,,male
+ISIC_7169848,Hospital Italiano de Buenos Aires,CC-BY,80,anterior torso,malignant,True,squamous cell carcinoma,histopathology,False,II,clinical: overview,IL_2440183,,,,IP_3315006,False,female
+ISIC_7221652,Hospital Italiano de Buenos Aires,CC-BY,60,head/neck,malignant,True,melanoma,histopathology,False,I,clinical: overview,IL_6201048,,,,IP_0212365,True,male
+ISIC_7231071,Hospital Italiano de Buenos Aires,CC-BY,75,upper extremity,malignant,True,melanoma,histopathology,,II,clinical: overview,IL_7782929,,,,IP_0093557,True,female
+ISIC_7261723,Hospital Italiano de Buenos Aires,CC-BY,75,upper extremity,malignant,True,melanoma,histopathology,,II,clinical: overview,IL_3861159,,,,IP_4790522,,female
+ISIC_7338852,Hospital Italiano de Buenos Aires,CC-BY,70,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_8887437,,,,IP_2738763,,female
+ISIC_7360494,Hospital Italiano de Buenos Aires,CC-BY,75,lower extremity,malignant,True,melanoma,histopathology,False,I,clinical: overview,IL_3440737,,,,IP_7559190,True,male
+ISIC_7435333,Hospital Italiano de Buenos Aires,CC-BY,60,upper extremity,malignant,True,melanoma,histopathology,False,II,clinical: overview,IL_1581392,,,,IP_5488862,True,male
+ISIC_7461496,Hospital Italiano de Buenos Aires,CC-BY,60,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_8738429,,,,IP_0778689,,female
+ISIC_7490806,Hospital Italiano de Buenos Aires,CC-BY,85,head/neck,malignant,True,squamous cell carcinoma,histopathology,,II,clinical: overview,IL_3110118,,,,IP_8541253,,male
+ISIC_7498025,Hospital Italiano de Buenos Aires,CC-BY,45,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_7247003,,,,IP_0601118,,female
+ISIC_7504036,Hospital Italiano de Buenos Aires,CC-BY,85,upper extremity,malignant,True,melanoma,histopathology,,II,clinical: overview,IL_5221633,,,,IP_8464178,,male
+ISIC_7587257,Hospital Italiano de Buenos Aires,CC-BY,80,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_0452159,,,,IP_1773608,True,female
+ISIC_7611886,Hospital Italiano de Buenos Aires,CC-BY,75,anterior torso,malignant,True,melanoma,histopathology,False,II,clinical: overview,IL_7982414,,,,IP_7265725,True,male
+ISIC_7796132,Hospital Italiano de Buenos Aires,CC-BY,45,head/neck,malignant,True,basal cell carcinoma,histopathology,False,II,clinical: overview,IL_8672238,,,,IP_8945353,False,female
+ISIC_7957576,Hospital Italiano de Buenos Aires,CC-BY,85,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_0766796,,,,IP_5966083,,female
+ISIC_7964676,Hospital Italiano de Buenos Aires,CC-BY,85,lower extremity,malignant,True,squamous cell carcinoma,histopathology,False,II,clinical: overview,IL_1923670,,,,IP_0013793,True,male
+ISIC_8044078,Hospital Italiano de Buenos Aires,CC-BY,85,upper extremity,malignant,True,basal cell carcinoma,histopathology,False,II,clinical: overview,IL_2695277,,,,IP_0013793,True,male
+ISIC_8053508,Hospital Italiano de Buenos Aires,CC-BY,85,anterior torso,malignant,True,squamous cell carcinoma,histopathology,,II,clinical: overview,IL_4771776,,,,IP_7800510,,female
+ISIC_8095537,Hospital Italiano de Buenos Aires,CC-BY,75,upper extremity,malignant,True,squamous cell carcinoma,histopathology,,II,clinical: overview,IL_1248740,,,,IP_1418688,,female
+ISIC_8097277,Hospital Italiano de Buenos Aires,CC-BY,70,head/neck,malignant,True,basal cell carcinoma,histopathology,False,II,clinical: overview,IL_0455383,,,,IP_5801898,False,female
+ISIC_8111280,Hospital Italiano de Buenos Aires,CC-BY,55,head/neck,malignant,True,squamous cell carcinoma,histopathology,,II,clinical: overview,IL_2606689,,,,IP_5701997,,female
+ISIC_8171432,Memorial Sloan Kettering Cancer Center,CC-0,65,upper extremity,malignant,True,melanoma,histopathology,,,clinical: overview,,invasive melanoma,0.80,,,,female
+ISIC_8329844,Hospital Italiano de Buenos Aires,CC-BY,70,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_2090686,,,,IP_5091395,,male
+ISIC_8403508,Hospital Italiano de Buenos Aires,CC-BY,80,head/neck,malignant,True,basal cell carcinoma,histopathology,,,clinical: overview,IL_0533405,,,,IP_7550129,,female
+ISIC_8489375,Hospital Italiano de Buenos Aires,CC-BY,75,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_3895709,,,,IP_3915964,,male
+ISIC_8495716,Hospital Italiano de Buenos Aires,CC-BY,35,anterior torso,malignant,True,basal cell carcinoma,histopathology,,,clinical: overview,IL_8573962,,,,IP_9002218,,female
+ISIC_8536717,Hospital Italiano de Buenos Aires,CC-BY,75,head/neck,malignant,True,squamous cell carcinoma,histopathology,,II,clinical: overview,IL_7484000,,,,IP_1366489,,female
+ISIC_8544566,Hospital Italiano de Buenos Aires,CC-BY,70,anterior torso,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_8688599,,,,IP_2175925,,male
+ISIC_8570943,Hospital Italiano de Buenos Aires,CC-BY,65,posterior torso,malignant,True,melanoma,histopathology,,I,clinical: overview,IL_9247514,,,,IP_3235188,True,female
+ISIC_8613600,Hospital Italiano de Buenos Aires,CC-BY,70,lower extremity,malignant,True,basal cell carcinoma,histopathology,False,II,clinical: overview,IL_4970090,,,,IP_0031063,True,female
+ISIC_8664178,Hospital Italiano de Buenos Aires,CC-BY,35,lower extremity,malignant,True,melanoma,histopathology,False,II,clinical: overview,IL_3250161,,,,IP_9393377,True,female
+ISIC_8738680,Hospital Italiano de Buenos Aires,CC-BY,75,head/neck,malignant,True,melanoma,histopathology,,II,clinical: overview,IL_3807827,,,,IP_1561363,True,female
+ISIC_8767311,Hospital Italiano de Buenos Aires,CC-BY,70,anterior torso,malignant,True,melanoma,histopathology,False,II,clinical: overview,IL_0060490,,,,IP_0031063,True,female
+ISIC_8793798,Hospital Italiano de Buenos Aires,CC-BY,60,,malignant,True,melanoma,histopathology,False,II,clinical: overview,IL_3601366,,,,IP_0240453,True,female
+ISIC_8803373,Hospital Italiano de Buenos Aires,CC-BY,65,,malignant,True,basal cell carcinoma,histopathology,False,II,clinical: overview,IL_4874075,,,,IP_3388406,False,male
+ISIC_8841175,Hospital Italiano de Buenos Aires,CC-BY,85,upper extremity,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_5682932,,,,IP_5543648,,female
+ISIC_8850095,Hospital Italiano de Buenos Aires,CC-BY,75,head/neck,malignant,True,basal cell carcinoma,histopathology,False,II,clinical: overview,IL_5217061,,,,IP_7265725,True,male
+ISIC_8930922,Hospital Italiano de Buenos Aires,CC-BY,85,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_7436943,,,,IP_7884622,,male
+ISIC_8939503,Hospital Italiano de Buenos Aires,CC-BY,85,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_3039529,,,,IP_6872677,,female
+ISIC_8948371,Hospital Italiano de Buenos Aires,CC-BY,80,upper extremity,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_9330933,,,,IP_6558273,True,male
+ISIC_8966458,Hospital Italiano de Buenos Aires,CC-BY,60,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_5041050,,,,IP_0551634,,female
+ISIC_9043183,Hospital Italiano de Buenos Aires,CC-BY,60,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_4681551,,,,IP_1100982,,female
+ISIC_9060197,Hospital Italiano de Buenos Aires,CC-BY,85,head/neck,malignant,True,basal cell carcinoma,histopathology,,III,clinical: overview,IL_1035603,,,,IP_3373935,,female
+ISIC_9097641,Hospital Italiano de Buenos Aires,CC-BY,75,anterior torso,malignant,True,melanoma,histopathology,,II,clinical: overview,IL_8214313,,,,IP_3580447,,male
+ISIC_9098311,Hospital Italiano de Buenos Aires,CC-BY,65,head/neck,malignant,True,melanoma,histopathology,False,II,clinical: overview,IL_6841868,,,,IP_5804995,True,male
+ISIC_9107240,Hospital Italiano de Buenos Aires,CC-BY,75,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_7302914,,,,IP_9086452,,male
+ISIC_9195841,Hospital Italiano de Buenos Aires,CC-BY,70,head/neck,malignant,True,melanoma,histopathology,,II,clinical: overview,IL_2551859,,,,IP_4805821,,male
+ISIC_9257589,Hospital Italiano de Buenos Aires,CC-BY,65,head/neck,malignant,True,squamous cell carcinoma,histopathology,,II,clinical: overview,IL_9195889,,,,IP_2681150,,female
+ISIC_9260532,Memorial Sloan Kettering Cancer Center,CC-0,85,anterior torso,malignant,True,melanoma,histopathology,,,clinical: overview,,invasive melanoma,0.80,,,,male
+ISIC_9311797,Hospital Italiano de Buenos Aires,CC-BY,65,upper extremity,malignant,True,squamous cell carcinoma,histopathology,False,II,clinical: overview,IL_6036150,,,,IP_5430722,True,male
+ISIC_9379115,Hospital Italiano de Buenos Aires,CC-BY,85,head/neck,malignant,True,squamous cell carcinoma,histopathology,,II,clinical: overview,IL_4437201,,,,IP_2754431,,female
+ISIC_9393700,Hospital Italiano de Buenos Aires,CC-BY,85,head/neck,malignant,True,squamous cell carcinoma,histopathology,,II,clinical: overview,IL_4838500,,,,IP_7442897,,female
+ISIC_9396173,Hospital Italiano de Buenos Aires,CC-BY,80,head/neck,malignant,True,melanoma,histopathology,,II,clinical: overview,IL_3397118,,,,IP_9731995,,female
+ISIC_9401469,Hospital Italiano de Buenos Aires,CC-BY,80,posterior torso,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_3949893,,,,IP_0964498,,male
+ISIC_9417610,Hospital Italiano de Buenos Aires,CC-BY,60,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_4914444,,,,IP_5750465,,female
+ISIC_9446067,Hospital Italiano de Buenos Aires,CC-BY,80,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_4995475,,,,IP_5549808,,female
+ISIC_9481737,Hospital Italiano de Buenos Aires,CC-BY,30,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_7571871,,,,IP_1724147,,male
+ISIC_9523184,Hospital Italiano de Buenos Aires,CC-BY,75,anterior torso,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_4038060,,,,IP_5485052,,male
+ISIC_9561124,Hospital Italiano de Buenos Aires,CC-BY,80,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_3372341,,,,IP_8165031,,male
+ISIC_9591897,Memorial Sloan Kettering Cancer Center,CC-0,85,anterior torso,malignant,True,melanoma,histopathology,,,clinical: overview,,invasive melanoma,1.40,,,,male
+ISIC_9597037,Hospital Italiano de Buenos Aires,CC-BY,35,lower extremity,malignant,True,melanoma,histopathology,False,II,clinical: overview,IL_8406844,,,,IP_6588465,True,female
+ISIC_9600064,Hospital Italiano de Buenos Aires,CC-BY,75,head/neck,malignant,True,melanoma,histopathology,False,II,clinical: overview,IL_8955295,,,,IP_2359644,True,male
+ISIC_9622866,Memorial Sloan Kettering Cancer Center,CC-0,80,upper extremity,malignant,True,melanoma,histopathology,,,clinical: overview,,invasive melanoma,0.10,,,,female
+ISIC_9645798,Hospital Italiano de Buenos Aires,CC-BY,80,lower extremity,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_4052831,,,,IP_9929036,,female
+ISIC_9660302,Hospital Italiano de Buenos Aires,CC-BY,85,head/neck,malignant,True,basal cell carcinoma,histopathology,,III,clinical: overview,IL_6022331,,,,IP_1319015,,male
+ISIC_9683541,Hospital Italiano de Buenos Aires,CC-BY,75,head/neck,malignant,True,squamous cell carcinoma,histopathology,,II,clinical: overview,IL_2429626,,,,IP_1729411,,male
+ISIC_9765735,Hospital Italiano de Buenos Aires,CC-BY,80,lower extremity,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_0462608,,,,IP_6558273,True,male
+ISIC_9910672,Hospital Italiano de Buenos Aires,CC-BY,75,head/neck,malignant,True,basal cell carcinoma,histopathology,,II,clinical: overview,IL_9222824,,,,IP_0147267,,female
+ISIC_9913448,Memorial Sloan Kettering Cancer Center,CC-0,65,upper extremity,malignant,True,melanoma,histopathology,,,clinical: overview,,invasive melanoma,1.00,,,,male
+ISIC_9922955,Hospital Italiano de Buenos Aires,CC-BY,70,anterior torso,malignant,True,basal cell carcinoma,histopathology,False,II,clinical: overview,IL_1694184,,,,IP_5801898,False,female
+ISIC_9947461,Hospital Italiano de Buenos Aires,CC-BY,80,head/neck,malignant,True,basal cell carcinoma,histopathology,False,I,clinical: overview,IL_6361168,,,,IP_4473222,True,male

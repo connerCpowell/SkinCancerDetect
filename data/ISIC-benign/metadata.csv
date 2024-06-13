@@ -1,0 +1,149 @@
+isic_id,attribution,copyright_license,age_approx,anatom_site_general,benign_malignant,concomitant_biopsy,diagnosis,diagnosis_confirm_type,family_hx_mm,fitzpatrick_skin_type,image_type,lesion_id,patient_id,personal_hx_mm,sex
+ISIC_0107741,Hospital Italiano de Buenos Aires,CC-BY,70,lower extremity,benign,False,vascular lesion,,True,II,clinical: overview,IL_2965116,IP_0276872,,male
+ISIC_0370022,Hospital Italiano de Buenos Aires,CC-BY,40,lower extremity,benign,False,nevus,,False,,clinical: overview,IL_4510049,IP_4446353,True,female
+ISIC_0520507,Hospital Italiano de Buenos Aires,CC-BY,40,lower extremity,benign,True,dermatofibroma,histopathology,,II,clinical: overview,IL_7500912,IP_2933627,,female
+ISIC_0644328,Hospital Italiano de Buenos Aires,CC-BY,30,posterior torso,benign,True,nevus,histopathology,False,II,clinical: overview,IL_5047846,IP_0232163,False,male
+ISIC_0721601,Hospital Italiano de Buenos Aires,CC-BY,70,head/neck,benign,False,actinic keratosis,,,II,clinical: overview,IL_9163996,IP_1612316,,female
+ISIC_0784936,Hospital Italiano de Buenos Aires,CC-BY,75,anterior torso,benign,False,vascular lesion,,,II,clinical: overview,IL_0051948,IP_8107767,,male
+ISIC_0797749,Hospital Italiano de Buenos Aires,CC-BY,70,anterior torso,benign,False,vascular lesion,,,II,clinical: overview,IL_1994979,IP_8694186,,male
+ISIC_0799918,Hospital Italiano de Buenos Aires,CC-BY,85,anterior torso,benign,True,seborrheic keratosis,histopathology,False,II,clinical: overview,IL_3664250,IP_3702153,False,male
+ISIC_0821196,Hospital Italiano de Buenos Aires,CC-BY,85,upper extremity,benign,True,seborrheic keratosis,histopathology,,II,clinical: overview,IL_3529997,IP_4260877,,male
+ISIC_0921082,Hospital Italiano de Buenos Aires,CC-BY,75,upper extremity,benign,True,nevus,histopathology,False,II,clinical: overview,IL_2307963,IP_1040510,True,female
+ISIC_0925734,Memorial Sloan Kettering Cancer Center,CC-0,85,palms/soles,benign,False,nevus,single image expert consensus,,,clinical: overview,,,,female
+ISIC_0925996,Memorial Sloan Kettering Cancer Center,CC-0,40,posterior torso,benign,True,nevus,histopathology,,,clinical: overview,,,,male
+ISIC_0962020,Hospital Italiano de Buenos Aires,CC-BY,45,upper extremity,benign,True,dermatofibroma,histopathology,,II,clinical: overview,IL_0786376,IP_8779056,,female
+ISIC_0973304,Hospital Italiano de Buenos Aires,CC-BY,55,head/neck,benign,True,actinic keratosis,histopathology,,II,clinical: overview,IL_0909134,IP_5625034,,female
+ISIC_1014434,Hospital Italiano de Buenos Aires,CC-BY,75,posterior torso,benign,True,nevus,histopathology,False,II,clinical: overview,IL_9143711,IP_6251525,True,female
+ISIC_1157493,Memorial Sloan Kettering Cancer Center,CC-0,45,lateral torso,benign,True,nevus,histopathology,,,clinical: overview,,,,female
+ISIC_1306256,Hospital Italiano de Buenos Aires,CC-BY,80,posterior torso,benign,True,nevus,histopathology,,II,clinical: overview,IL_8656384,IP_2118132,,male
+ISIC_1383624,Hospital Italiano de Buenos Aires,CC-BY,30,posterior torso,benign,True,nevus,histopathology,False,II,clinical: overview,IL_2917009,IP_0232163,False,male
+ISIC_1431322,Memorial Sloan Kettering Cancer Center,CC-0,35,posterior torso,benign,True,nevus,histopathology,,,clinical: overview,,,,female
+ISIC_1464726,Hospital Italiano de Buenos Aires,CC-BY,70,lower extremity,benign,False,seborrheic keratosis,,True,II,clinical: overview,IL_9624120,IP_8785134,False,male
+ISIC_1488253,Memorial Sloan Kettering Cancer Center,CC-0,55,upper extremity,benign,False,nevus,single image expert consensus,,,clinical: overview,,,,male
+ISIC_1659879,Hospital Italiano de Buenos Aires,CC-BY,70,upper extremity,benign,False,vascular lesion,,,II,clinical: overview,IL_1035115,IP_8694186,,male
+ISIC_1687088,Hospital Italiano de Buenos Aires,CC-BY,70,head/neck,benign,False,actinic keratosis,,,II,clinical: overview,IL_2635206,IP_7923120,,male
+ISIC_1733229,Hospital Italiano de Buenos Aires,CC-BY,60,lower extremity,benign,True,seborrheic keratosis,histopathology,False,II,clinical: overview,IL_9685676,IP_4097598,False,female
+ISIC_1735322,Hospital Italiano de Buenos Aires,CC-BY,50,head/neck,benign,False,solar lentigo,,,III,clinical: overview,IL_9859418,IP_9503214,,female
+ISIC_1735952,Hospital Italiano de Buenos Aires,CC-BY,70,,benign,False,nevus,,False,II,clinical: overview,IL_5806562,IP_0031063,True,female
+ISIC_1816574,Hospital Italiano de Buenos Aires,CC-BY,35,upper extremity,benign,True,nevus,histopathology,True,II,clinical: overview,IL_8606570,IP_6728907,,male
+ISIC_1966520,Hospital Italiano de Buenos Aires,CC-BY,55,lower extremity,benign,False,dermatofibroma,,,II,clinical: overview,IL_9626445,IP_8812719,,female
+ISIC_2072583,Hospital Italiano de Buenos Aires,CC-BY,75,head/neck,benign,True,nevus,histopathology,,II,clinical: overview,IL_4358060,IP_7248754,,male
+ISIC_2084085,Hospital Italiano de Buenos Aires,CC-BY,55,lower extremity,benign,False,dermatofibroma,,,II,clinical: overview,IL_3984045,IP_9800473,,female
+ISIC_2214759,Hospital Italiano de Buenos Aires,CC-BY,85,anterior torso,benign,True,seborrheic keratosis,histopathology,False,II,clinical: overview,IL_2920159,IP_3702153,False,male
+ISIC_2224029,Hospital Italiano de Buenos Aires,CC-BY,80,upper extremity,benign,True,seborrheic keratosis,histopathology,,II,clinical: overview,IL_1309007,IP_6558273,True,male
+ISIC_2400793,Hospital Italiano de Buenos Aires,CC-BY,70,upper extremity,benign,False,nevus,,False,II,clinical: overview,IL_0729649,IP_0031063,True,female
+ISIC_2436138,Hospital Italiano de Buenos Aires,CC-BY,65,posterior torso,benign,True,seborrheic keratosis,histopathology,,II,clinical: overview,IL_7614927,IP_6579706,,male
+ISIC_2522620,Hospital Italiano de Buenos Aires,CC-BY,65,lower extremity,benign,False,seborrheic keratosis,,,II,clinical: overview,IL_8218104,IP_3342129,,female
+ISIC_2596867,Hospital Italiano de Buenos Aires,CC-BY,75,posterior torso,benign,False,vascular lesion,,,II,clinical: overview,IL_0602189,IP_8107767,,male
+ISIC_2606092,Hospital Italiano de Buenos Aires,CC-BY,40,anterior torso,benign,True,nevus,histopathology,False,II,clinical: overview,IL_0797235,IP_3028994,True,male
+ISIC_2685699,Hospital Italiano de Buenos Aires,CC-BY,50,anterior torso,benign,True,nevus,histopathology,False,II,clinical: overview,IL_5638546,IP_1942334,False,female
+ISIC_2870496,Hospital Italiano de Buenos Aires,CC-BY,65,head/neck,benign,False,vascular lesion,,,II,clinical: overview,IL_1374464,IP_7144003,,female
+ISIC_2900342,Hospital Italiano de Buenos Aires,CC-BY,75,lower extremity,benign,False,dermatofibroma,,,III,clinical: overview,IL_9884616,IP_3612977,,male
+ISIC_3000299,Memorial Sloan Kettering Cancer Center,CC-0,50,upper extremity,benign,False,nevus,single image expert consensus,,,clinical: overview,,,,female
+ISIC_3007796,Hospital Italiano de Buenos Aires,CC-BY,75,head/neck,benign,False,vascular lesion,,False,II,clinical: overview,IL_5765588,IP_2359644,True,male
+ISIC_3019909,Hospital Italiano de Buenos Aires,CC-BY,75,anterior torso,benign,True,nevus,histopathology,,II,clinical: overview,IL_8887018,IP_5527482,,male
+ISIC_3114203,Hospital Italiano de Buenos Aires,CC-BY,65,head/neck,benign,True,actinic keratosis,histopathology,,II,clinical: overview,IL_7041260,IP_7256360,,male
+ISIC_3136193,Hospital Italiano de Buenos Aires,CC-BY,45,lower extremity,benign,False,dermatofibroma,,,II,clinical: overview,IL_4911898,IP_5265455,,female
+ISIC_3388616,Hospital Italiano de Buenos Aires,CC-BY,75,anterior torso,benign,False,vascular lesion,,,II,clinical: overview,IL_6898262,IP_8107767,,male
+ISIC_3615362,Hospital Italiano de Buenos Aires,CC-BY,65,lower extremity,benign,False,dermatofibroma,,False,I,clinical: overview,IL_3918161,IP_5230560,True,female
+ISIC_3716776,Hospital Italiano de Buenos Aires,CC-BY,45,,benign,True,nevus,histopathology,False,II,clinical: overview,IL_9889961,IP_6959152,False,female
+ISIC_3881430,Hospital Italiano de Buenos Aires,CC-BY,60,posterior torso,benign,True,nevus,histopathology,False,II,clinical: overview,IL_5705728,IP_4097598,False,female
+ISIC_3978885,Hospital Italiano de Buenos Aires,CC-BY,35,anterior torso,benign,False,nevus,,,II,clinical: overview,IL_0395628,IP_9853265,,female
+ISIC_4036953,Hospital Italiano de Buenos Aires,CC-BY,70,upper extremity,benign,False,nevus,,False,II,clinical: overview,IL_9035337,IP_0031063,True,female
+ISIC_4047069,Hospital Italiano de Buenos Aires,CC-BY,75,head/neck,benign,False,actinic keratosis,,,II,clinical: overview,IL_3964017,IP_6904980,,female
+ISIC_4258119,Hospital Italiano de Buenos Aires,CC-BY,60,upper extremity,benign,False,vascular lesion,,False,II,clinical: overview,IL_7214907,IP_3297302,False,female
+ISIC_4310474,Hospital Italiano de Buenos Aires,CC-BY,70,head/neck,benign,True,seborrheic keratosis,histopathology,False,I,clinical: overview,IL_3063049,IP_6610729,True,female
+ISIC_4415554,Hospital Italiano de Buenos Aires,CC-BY,75,posterior torso,benign,False,seborrheic keratosis,,,II,clinical: overview,IL_3557062,IP_8107767,,male
+ISIC_4525930,Hospital Italiano de Buenos Aires,CC-BY,60,head/neck,benign,False,seborrheic keratosis,,,II,clinical: overview,IL_3928264,IP_0778689,,female
+ISIC_4596148,Hospital Italiano de Buenos Aires,CC-BY,75,head/neck,benign,False,actinic keratosis,,,II,clinical: overview,IL_0498308,IP_3060715,,male
+ISIC_4663260,Hospital Italiano de Buenos Aires,CC-BY,75,anterior torso,benign,False,nevus,,True,II,clinical: overview,IL_6462293,IP_2411102,,female
+ISIC_4700556,Hospital Italiano de Buenos Aires,CC-BY,45,anterior torso,benign,False,dermatofibroma,,,II,clinical: overview,IL_9520027,IP_2495114,,female
+ISIC_4788959,Hospital Italiano de Buenos Aires,CC-BY,80,posterior torso,benign,False,lichenoid keratosis,,,II,clinical: overview,IL_7404456,IP_8165031,,male
+ISIC_4798806,Hospital Italiano de Buenos Aires,CC-BY,40,,benign,False,vascular lesion,,False,II,clinical: overview,IL_7167818,IP_3028994,True,male
+ISIC_4816001,Hospital Italiano de Buenos Aires,CC-BY,75,posterior torso,benign,True,nevus,histopathology,,II,clinical: overview,IL_5520788,IP_6783333,,male
+ISIC_4825485,Hospital Italiano de Buenos Aires,CC-BY,40,lower extremity,benign,True,dermatofibroma,histopathology,,II,clinical: overview,IL_9024769,IP_0685905,,female
+ISIC_4875964,Hospital Italiano de Buenos Aires,CC-BY,70,posterior torso,benign,True,nevus,histopathology,,II,clinical: overview,IL_9453442,IP_5091395,,male
+ISIC_4888155,Hospital Italiano de Buenos Aires,CC-BY,55,head/neck,benign,True,actinic keratosis,histopathology,True,II,clinical: overview,IL_9049450,IP_2208139,False,female
+ISIC_4999508,Hospital Italiano de Buenos Aires,CC-BY,75,head/neck,benign,True,actinic keratosis,histopathology,,II,clinical: overview,IL_8942388,IP_4932731,,male
+ISIC_5007626,Hospital Italiano de Buenos Aires,CC-BY,35,upper extremity,benign,True,nevus,histopathology,True,II,clinical: overview,IL_5313721,IP_6728907,,male
+ISIC_5083884,Memorial Sloan Kettering Cancer Center,CC-0,25,head/neck,benign,True,nevus,histopathology,,,clinical: overview,,,,female
+ISIC_5205467,Hospital Italiano de Buenos Aires,CC-BY,80,lower extremity,benign,False,dermatofibroma,,,II,clinical: overview,IL_8910852,IP_2877009,,female
+ISIC_5219984,Memorial Sloan Kettering Cancer Center,CC-0,30,upper extremity,benign,True,nevus,histopathology,,,clinical: overview,,,,female
+ISIC_5279645,Hospital Italiano de Buenos Aires,CC-BY,50,posterior torso,benign,False,nevus,,,III,clinical: overview,IL_5856952,IP_9503214,,female
+ISIC_5280521,Hospital Italiano de Buenos Aires,CC-BY,55,anterior torso,benign,False,seborrheic keratosis,,,II,clinical: overview,IL_0998127,IP_6089636,,female
+ISIC_5400713,Hospital Italiano de Buenos Aires,CC-BY,60,upper extremity,benign,False,nevus,,,II,clinical: overview,IL_6030771,IP_9885775,True,female
+ISIC_5435484,Memorial Sloan Kettering Cancer Center,CC-0,35,anterior torso,benign,True,nevus,histopathology,,,clinical: overview,,,,female
+ISIC_5702387,Hospital Italiano de Buenos Aires,CC-BY,30,posterior torso,benign,False,nevus,,False,II,clinical: overview,IL_1954016,IP_0232163,False,male
+ISIC_5731511,Hospital Italiano de Buenos Aires,CC-BY,35,upper extremity,benign,False,solar lentigo,,,II,clinical: overview,IL_0573832,IP_9853265,,female
+ISIC_5733934,Hospital Italiano de Buenos Aires,CC-BY,75,head/neck,benign,False,actinic keratosis,,False,III,clinical: overview,IL_6263448,IP_1549548,False,male
+ISIC_5749049,Hospital Italiano de Buenos Aires,CC-BY,65,head/neck,benign,True,actinic keratosis,histopathology,,III,clinical: overview,IL_5173845,IP_4744338,,female
+ISIC_5770532,Hospital Italiano de Buenos Aires,CC-BY,45,lower extremity,benign,True,nevus,histopathology,,II,clinical: overview,IL_1866559,IP_3019489,,female
+ISIC_5877136,Memorial Sloan Kettering Cancer Center,CC-0,50,posterior torso,benign,True,nevus,histopathology,,,clinical: overview,,,,male
+ISIC_5879786,Memorial Sloan Kettering Cancer Center,CC-0,30,anterior torso,benign,True,nevus,histopathology,,,clinical: overview,,,,female
+ISIC_5959220,Hospital Italiano de Buenos Aires,CC-BY,55,head/neck,benign,True,seborrheic keratosis,histopathology,,III,clinical: overview,IL_4559146,IP_7960361,,female
+ISIC_5985738,Hospital Italiano de Buenos Aires,CC-BY,55,lower extremity,benign,False,dermatofibroma,,,III,clinical: overview,IL_5334768,IP_6003393,,female
+ISIC_5992988,Hospital Italiano de Buenos Aires,CC-BY,70,posterior torso,benign,False,nevus,,False,I,clinical: overview,IL_0293819,IP_4891909,False,female
+ISIC_6038442,Hospital Italiano de Buenos Aires,CC-BY,50,anterior torso,benign,True,nevus,histopathology,False,II,clinical: overview,IL_8088150,IP_7765996,False,male
+ISIC_6045898,Hospital Italiano de Buenos Aires,CC-BY,65,posterior torso,benign,True,nevus,histopathology,False,III,clinical: overview,IL_0896205,IP_8404073,False,male
+ISIC_6129060,Hospital Italiano de Buenos Aires,CC-BY,80,lower extremity,benign,True,seborrheic keratosis,histopathology,False,II,clinical: overview,IL_8889739,IP_6123331,False,female
+ISIC_6251739,Memorial Sloan Kettering Cancer Center,CC-0,40,anterior torso,benign,True,nevus,histopathology,,,clinical: overview,,,,female
+ISIC_6259135,Hospital Italiano de Buenos Aires,CC-BY,70,head/neck,benign,False,solar lentigo,,,II,clinical: overview,IL_6588725,IP_7428337,,female
+ISIC_6289062,Hospital Italiano de Buenos Aires,CC-BY,55,head/neck,benign,False,solar lentigo,,False,II,clinical: overview,IL_4757470,IP_9786236,True,female
+ISIC_6341872,Hospital Italiano de Buenos Aires,CC-BY,65,head/neck,benign,False,actinic keratosis,,,II,clinical: overview,IL_2473888,IP_3404622,,male
+ISIC_6415252,Hospital Italiano de Buenos Aires,CC-BY,40,head/neck,benign,False,nevus,,False,II,clinical: overview,IL_8598907,IP_3028994,True,male
+ISIC_6450459,Hospital Italiano de Buenos Aires,CC-BY,25,posterior torso,benign,True,nevus,histopathology,,II,clinical: overview,IL_6032807,IP_6566825,,female
+ISIC_6516485,Hospital Italiano de Buenos Aires,CC-BY,80,lower extremity,benign,False,seborrheic keratosis,,,II,clinical: overview,IL_3077206,IP_1344764,,female
+ISIC_6542300,Hospital Italiano de Buenos Aires,CC-BY,60,anterior torso,benign,False,seborrheic keratosis,,,II,clinical: overview,IL_1424221,IP_9885775,True,female
+ISIC_6574040,Memorial Sloan Kettering Cancer Center,CC-0,40,posterior torso,benign,False,nevus,single image expert consensus,,,clinical: overview,,,,female
+ISIC_6605399,Memorial Sloan Kettering Cancer Center,CC-0,25,upper extremity,benign,True,nevus,histopathology,,,clinical: overview,,,,male
+ISIC_6614811,Hospital Italiano de Buenos Aires,CC-BY,60,head/neck,benign,False,actinic keratosis,,,II,clinical: overview,IL_2291469,IP_8693311,,male
+ISIC_6696802,Memorial Sloan Kettering Cancer Center,CC-0,55,posterior torso,benign,True,nevus,histopathology,,,clinical: overview,,,,female
+ISIC_6746681,Memorial Sloan Kettering Cancer Center,CC-0,75,lower extremity,benign,False,nevus,single image expert consensus,,,clinical: overview,,,,female
+ISIC_6925301,Hospital Italiano de Buenos Aires,CC-BY,30,lateral torso,benign,True,nevus,histopathology,False,II,clinical: overview,IL_3312003,IP_9935521,False,male
+ISIC_6937526,Hospital Italiano de Buenos Aires,CC-BY,75,posterior torso,benign,True,nevus,histopathology,False,II,clinical: overview,IL_7588215,IP_3389004,True,female
+ISIC_7089477,Hospital Italiano de Buenos Aires,CC-BY,35,lower extremity,benign,False,dermatofibroma,,,II,clinical: overview,IL_7679546,IP_8376420,,male
+ISIC_7151644,Hospital Italiano de Buenos Aires,CC-BY,60,posterior torso,benign,True,nevus,histopathology,,II,clinical: overview,IL_9353525,IP_4567280,,female
+ISIC_7546980,Hospital Italiano de Buenos Aires,CC-BY,70,anterior torso,benign,False,seborrheic keratosis,,False,II,clinical: overview,IL_6342673,IP_0031063,True,female
+ISIC_7579869,Hospital Italiano de Buenos Aires,CC-BY,40,posterior torso,benign,True,nevus,histopathology,,II,clinical: overview,IL_4865608,IP_3992665,,male
+ISIC_7756020,Hospital Italiano de Buenos Aires,CC-BY,25,head/neck,benign,True,nevus,histopathology,False,II,clinical: overview,IL_4541196,IP_9454026,False,male
+ISIC_7812886,Hospital Italiano de Buenos Aires,CC-BY,70,head/neck,benign,True,actinic keratosis,histopathology,False,III,clinical: overview,IL_5699623,IP_3682931,False,male
+ISIC_7844517,Hospital Italiano de Buenos Aires,CC-BY,40,lower extremity,benign,False,dermatofibroma,,False,II,clinical: overview,IL_1123157,IP_2304858,False,female
+ISIC_7901155,Hospital Italiano de Buenos Aires,CC-BY,40,lower extremity,benign,True,dermatofibroma,histopathology,,III,clinical: overview,IL_7079473,IP_0123674,,female
+ISIC_7901514,Hospital Italiano de Buenos Aires,CC-BY,65,lower extremity,benign,False,dermatofibroma,,,II,clinical: overview,IL_5825485,IP_3342129,,female
+ISIC_7964849,Hospital Italiano de Buenos Aires,CC-BY,80,head/neck,benign,False,actinic keratosis,,,II,clinical: overview,IL_4406287,IP_1344764,,female
+ISIC_7979741,Hospital Italiano de Buenos Aires,CC-BY,75,posterior torso,benign,False,seborrheic keratosis,,,II,clinical: overview,IL_2126205,IP_1522045,,male
+ISIC_8174547,Hospital Italiano de Buenos Aires,CC-BY,35,anterior torso,benign,False,dermatofibroma,,,II,clinical: overview,IL_8063573,IP_6578239,,female
+ISIC_8373120,Hospital Italiano de Buenos Aires,CC-BY,45,lower extremity,benign,False,dermatofibroma,,,II,clinical: overview,IL_5968442,IP_1371309,,male
+ISIC_8539737,Hospital Italiano de Buenos Aires,CC-BY,75,anterior torso,benign,True,seborrheic keratosis,histopathology,False,I,clinical: overview,IL_2147560,IP_7559190,True,male
+ISIC_8548189,Hospital Italiano de Buenos Aires,CC-BY,70,lower extremity,benign,False,seborrheic keratosis,,,II,clinical: overview,IL_8678803,IP_2738763,,female
+ISIC_8590029,Memorial Sloan Kettering Cancer Center,CC-0,25,posterior torso,benign,True,nevus,histopathology,,,clinical: overview,,,,female
+ISIC_8668169,Hospital Italiano de Buenos Aires,CC-BY,50,posterior torso,benign,False,nevus,,,III,clinical: overview,IL_4609375,IP_9503214,,female
+ISIC_8707120,Hospital Italiano de Buenos Aires,CC-BY,60,anterior torso,benign,True,nevus,histopathology,,II,clinical: overview,IL_2529443,IP_6328281,,female
+ISIC_8721218,Hospital Italiano de Buenos Aires,CC-BY,45,lower extremity,benign,False,dermatofibroma,,,II,clinical: overview,IL_7294588,IP_1371309,,male
+ISIC_8775112,Hospital Italiano de Buenos Aires,CC-BY,30,lower extremity,benign,True,nevus,histopathology,True,II,clinical: overview,IL_0256906,IP_0500329,,female
+ISIC_8781042,Hospital Italiano de Buenos Aires,CC-BY,70,posterior torso,benign,True,nevus,histopathology,False,III,clinical: overview,IL_1160690,IP_3682931,False,male
+ISIC_8904408,Hospital Italiano de Buenos Aires,CC-BY,55,anterior torso,benign,True,nevus,histopathology,,,clinical: overview,IL_4885444,IP_9947705,False,female
+ISIC_8968467,Memorial Sloan Kettering Cancer Center,CC-0,40,posterior torso,benign,True,nevus,histopathology,,,clinical: overview,,,,male
+ISIC_8969985,Hospital Italiano de Buenos Aires,CC-BY,60,lower extremity,benign,True,dermatofibroma,histopathology,,II,clinical: overview,IL_2139148,IP_9436253,,male
+ISIC_9071082,Hospital Italiano de Buenos Aires,CC-BY,50,lower extremity,benign,False,dermatofibroma,,,II,clinical: overview,IL_3803224,IP_7762922,,female
+ISIC_9082062,Hospital Italiano de Buenos Aires,CC-BY,80,posterior torso,benign,True,nevus,histopathology,,II,clinical: overview,IL_4524069,IP_6558273,True,male
+ISIC_9129115,Hospital Italiano de Buenos Aires,CC-BY,75,posterior torso,benign,True,actinic keratosis,histopathology,,II,clinical: overview,IL_2485486,IP_8947694,,female
+ISIC_9353417,Hospital Italiano de Buenos Aires,CC-BY,70,posterior torso,benign,False,nevus,,True,II,clinical: overview,IL_9809892,IP_0276872,,male
+ISIC_9378991,Hospital Italiano de Buenos Aires,CC-BY,55,upper extremity,benign,False,nevus,,,III,clinical: overview,IL_1663524,IP_6003393,,female
+ISIC_9389491,Memorial Sloan Kettering Cancer Center,CC-0,30,anterior torso,benign,True,nevus,histopathology,,,clinical: overview,,,,female
+ISIC_9389788,Hospital Italiano de Buenos Aires,CC-BY,75,posterior torso,benign,True,actinic keratosis,histopathology,,II,clinical: overview,IL_1806732,IP_5349935,,female
+ISIC_9396732,Hospital Italiano de Buenos Aires,CC-BY,70,head/neck,benign,False,nevus,,,II,clinical: overview,IL_6467350,IP_7428337,,female
+ISIC_9480238,Hospital Italiano de Buenos Aires,CC-BY,40,lower extremity,benign,False,dermatofibroma,,,II,clinical: overview,IL_2978481,IP_7351253,,male
+ISIC_9497941,Hospital Italiano de Buenos Aires,CC-BY,70,lower extremity,benign,True,nevus,histopathology,False,III,clinical: overview,IL_6794721,IP_3682931,False,male
+ISIC_9513630,Hospital Italiano de Buenos Aires,CC-BY,45,posterior torso,benign,True,nevus,histopathology,False,II,clinical: overview,IL_3801788,IP_2413128,False,male
+ISIC_9611628,Hospital Italiano de Buenos Aires,CC-BY,60,posterior torso,benign,True,nevus,histopathology,,II,clinical: overview,IL_9391482,IP_5650689,,female
+ISIC_9612785,Memorial Sloan Kettering Cancer Center,CC-0,50,anterior torso,benign,True,nevus,histopathology,,,clinical: overview,,,,male
+ISIC_9651464,Hospital Italiano de Buenos Aires,CC-BY,75,upper extremity,benign,False,nevus,,True,II,clinical: overview,IL_3878395,IP_2411102,,female
+ISIC_9653384,Hospital Italiano de Buenos Aires,CC-BY,70,lower extremity,benign,False,dermatofibroma,,False,I,clinical: overview,IL_9875496,IP_4891909,False,female
+ISIC_9701230,Hospital Italiano de Buenos Aires,CC-BY,45,lower extremity,benign,True,nevus,histopathology,,II,clinical: overview,IL_3035673,IP_8779056,,female
+ISIC_9795586,Hospital Italiano de Buenos Aires,CC-BY,80,head/neck,benign,True,seborrheic keratosis,histopathology,False,II,clinical: overview,IL_7629840,IP_0991357,True,male
+ISIC_9882427,Hospital Italiano de Buenos Aires,CC-BY,80,anterior torso,benign,True,nevus,histopathology,,II,clinical: overview,IL_9265651,IP_6558273,True,male
+ISIC_9905557,Hospital Italiano de Buenos Aires,CC-BY,55,lower extremity,benign,True,nevus,histopathology,False,II,clinical: overview,IL_6061997,IP_1773325,False,female
+ISIC_9925949,Hospital Italiano de Buenos Aires,CC-BY,20,posterior torso,benign,True,nevus,histopathology,False,II,clinical: overview,IL_1775432,IP_7203368,False,female
+ISIC_9968790,Hospital Italiano de Buenos Aires,CC-BY,80,upper extremity,benign,True,nevus,histopathology,,III,clinical: overview,IL_7370033,IP_7670614,,female
+ISIC_9997367,Hospital Italiano de Buenos Aires,CC-BY,70,head/neck,benign,False,actinic keratosis,,,II,clinical: overview,IL_1956821,IP_2692251,,female
