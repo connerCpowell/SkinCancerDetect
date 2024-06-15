@@ -56,6 +56,7 @@ print(random_sample)
 # %%
 
 df['label_bin'] = np.where(df['label'].values == 'malignant', 1, 0)
+df.head()
 
 
 # %%
@@ -93,33 +94,51 @@ plt.show()
 features = df['filepath']
 target = df['label_bin']
  
-X_train, X_val,\
-    Y_train, Y_val = train_test_split(features, target,
+X_train, X_val, Y_train, Y_val = train_test_split(features, target,
                                       test_size=0.15,
                                       random_state=10)
  
-X_train.shape, X_val.shape
+X_train.shape, X_val.shape, Y_train.shape , Y_val.shape
+
+
+# %%
+tdy = list(Y_train)
+tdx = list(X_train)
+
+len(set(tdx) - set(tdy))
 
 
 # %%
 
-def decode_image(filepath, label=None):
+def decode_image(filepath, label):
  
     img = tf.io.read_file(filepath)
     img = tf.image.decode_jpeg(img)
     img = tf.image.resize(img, [224, 224])
     img = tf.cast(img, tf.float32) / 255.0
 
-    # print('label:', label)
-    # if label == 'benign':
-    #     Label = 0
-    # else:
-    #     Label = 1
+    print('label:', label)
+    if label == 'benign':
+        Label = 0
+    else:
+        Label = 1
  
-    #return img, Label
-    return img
+    return img, Label
 
 
+
+
+# %%
+# def decode_image(filepath, label=None):
+ 
+#     img = keras.utils.load_img(filepath, target_size=(224, 224))
+#     x = keras.utils.img_to_array(img)
+#     x = np.expand_dims(x, axis=0)
+#     x = preprocess_input(x)
+
+
+#     print(x) 
+#     return x
 
 # %%
 
@@ -139,6 +158,8 @@ val_ds = (
     .prefetch(AUTO)
 )
 
+
+print(train_ds)
 
 # %%
 
@@ -184,8 +205,9 @@ model.compile(
 # %%
 
 history = model.fit(train_ds,
-                    validation_data=val_ds,
+                    #validation_data=val_ds,
                     epochs=5,
+                    batch_size=1,
                     verbose=1)
 
 
