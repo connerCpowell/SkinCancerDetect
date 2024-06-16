@@ -92,13 +92,14 @@ plt.show()
 # %%
 
 features = df['filepath']
-target = df['label_bin']
+target = df['label']
  
 X_train, X_val, Y_train, Y_val = train_test_split(features, target,
                                       test_size=0.15,
                                       random_state=10)
  
-X_train.shape, X_val.shape, Y_train.shape , Y_val.shape
+#X_train.shape, X_val.shape, Y_train.shape , Y_val.shape
+#Y_val.head()
 
 
 # %%
@@ -117,6 +118,7 @@ def decode_image(filepath, label):
     img = tf.image.resize(img, [224, 224])
     img = tf.cast(img, tf.float32) / 255.0
 
+    
     print('label:', label)
     if label == 'benign':
         Label = 0
@@ -124,6 +126,7 @@ def decode_image(filepath, label):
         Label = 1
  
     return img, Label
+    return img
 
 
 
@@ -196,7 +199,7 @@ model = Model(inputs, outputs)
 # %%
 
 model.compile(
-    loss=tf.keras.losses.BinaryCrossentropy(from_logits=True),
+    loss='binary_crossentropy',
     optimizer='adam',
     metrics=['AUC']
 )
@@ -204,10 +207,10 @@ model.compile(
 
 # %%
 
-history = model.fit(train_ds,
-                    #validation_data=val_ds,
+history = model.fit(
+                    train_ds,
+                    validation_data=val_ds,
                     epochs=5,
-                    batch_size=1,
                     verbose=1)
 
 
@@ -215,6 +218,24 @@ history = model.fit(train_ds,
 
 hist_df = pd.DataFrame(history.history)
 hist_df.head()
+
+
+# %%
+
+hist_df['loss'].plot()
+hist_df['val_loss'].plot()
+plt.title('Loss v/s Validation Loss')
+plt.legend()
+plt.show()
+
+
+# %%
+
+hist_df['auc'].plot()
+hist_df['val_auc'].plot()
+plt.title('AUC v/s Validation AUC')
+plt.legend()
+plt.show()
 
 
 # %%
