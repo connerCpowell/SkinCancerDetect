@@ -210,7 +210,7 @@ model.compile(
 history = model.fit(
                     train_ds,
                     validation_data=val_ds,
-                    epochs=5,
+                    epochs=7,
                     verbose=1)
 
 
